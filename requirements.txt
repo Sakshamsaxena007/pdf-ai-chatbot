@@ -2,8 +2,9 @@ streamlit
 langchain-community
 langchain-groq
 langchain-text-splitters
-chromadb==0.4.24
 sentence-transformers
+faiss-cpu
 pypdf
 python-dotenv
-protobuf==3.20.3
+huggingface-hub
+torch
