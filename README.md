@@ -30,5 +30,5 @@ streamlit run app.py
 
 PDF → Text Extraction → Chunking → Embeddings → ChromaDB → Retrieval → Groq LLM → Answer + Sources
 
-## Prepare by
+## Prepared by
 Saksham Saxena
