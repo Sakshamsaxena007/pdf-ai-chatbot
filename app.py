@@ -1,9 +1,9 @@
 import os
 import tempfile
 import streamlit as st
-from utils.pdf_loader import load_pdf
-from utils.vector_store import create_vector_store
-from utils.chatbot import get_answer
+from pdf_loader import load_pdf
+from vector_store import create_vector_store
+from chatbot import get_answer
 
 st.set_page_config(
     page_title="PDF AI Chatbot",
